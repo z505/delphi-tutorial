@@ -3,3 +3,6 @@ A collection of delphi tutorials of simple and more advanced ways to use delphi 
 
 ## Lists
 How to make a list of any type, such as integers, and add methods to it
+
+## More
+More tutorials will be put here below the last one made
